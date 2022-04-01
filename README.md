@@ -23,7 +23,7 @@ I'm still alive.
 <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Google Cloud" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavePnow&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavePnow&layout=compact&langs_count=6&hide=jupyter%20notebook"/>
 <br>
 
 ## 📮 How to reach me
