@@ -10,7 +10,8 @@
 
 🔗 **Connect with me**
 
-<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109598034182848632?domain=https%3A%2F%2Flinuxrocks.online&style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/NavePnow?style=social"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/NavePnow?style=social">
+<a href="https://linuxrocks.online/@NavePnow" target="_blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109598034182848632?domain=https%3A%2F%2Flinuxrocks.online&style=social"></a>
+<a href="https://github.com/NavePnow" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/NavePnow?style=social"></a>
 
 <details>
   <summary><b>💬 Languages</b></summary>
