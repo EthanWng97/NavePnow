@@ -5,12 +5,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NavePnow&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true" />
 
 - 🔬 I'm studying for a master's degree in Computer Science.
-- 📫 How to reach me: [Email](mailto:yifwang@duck.com) or [Twitter](https://twitter.com/NavePnow)
+- 📫 How to reach me: [Email](mailto:yifwang@duck.com)
 - 💡 I’m currently learning **Googling...**
 
 🔗 **Connect with me**
 
-<a href="https://linuxrocks.online/@NavePnow" target="_blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109598034182848632?domain=https%3A%2F%2Flinuxrocks.online&style=social"></a>
+<a href="https://www.reddit.com/user/NavePnow" target="_blank"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/NavePnow?style=social"></a>
 <a href="https://github.com/NavePnow" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/NavePnow?style=social"></a>
 
 <details>
